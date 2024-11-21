@@ -1,9 +1,9 @@
-import { ball, instagram, logoWhite, send, twitter, youtube } from "../assets";
+import { ball, instagram, withLogo, send, twitter, youtube } from "../assets";
 const Footer = () => {
   return (
     <div className="md:flex items-center flex-wrap justify-between bg-secondary py-10 md:px-52 sm:px-20 px-10">
       <div>
-        <img className="cursor-pointer" src={logoWhite} alt="logo" />
+        <img className="cursor-pointer" src={withLogo} alt="logo" />
         <p className="my-6 text-sliverWhite leading-8">
           Copyright © 2020 Nexcent ltd. <br /> All rights reserved
         </p>

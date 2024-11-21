@@ -17,7 +17,7 @@ import image1 from "./image1.png";
 import image2 from "./image2.png";
 import image3 from "./image3.png";
 import instagram from "./instagram.png";
-import logoWhite from "./logoWhite.png";
+import withLogo from "./withLogo.png";
 import logo from "./logo.png";
 import pana1 from "./pana1.png";
 import pana2 from "./pana2.png";
@@ -47,7 +47,7 @@ export {
   image3,
   image2,
   instagram,
-  logoWhite,
+  withLogo,
   logo,
   pana1,
   pana2,
